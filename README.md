@@ -19,3 +19,5 @@ REVERSE J K:Print the expression that results when the elements between the Jth 
 MAXIMUM: Print the sublist with the most arguments.
 
 This is for the ACSL Senior Division Contest 2 2014-2015
+
+To run this code use javac `LISPExpressions.java` then `java LISPExpressions`
